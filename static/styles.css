@@ -1,0 +1,23 @@
+body {
+font-family: Arial, sans-serif;
+margin: 40px;
+background-color: #F6F1DE;
+}
+
+label {
+display: block;
+margin-top: 10px;
+font-weight: bold;
+}
+
+input, texture, select {
+width: 90px;
+padding: 3px;
+margin-top: 5px;
+}
+
+.errors {
+color: Pink;
+list-style: none;
+padding: 2;
+}
